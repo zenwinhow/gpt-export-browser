@@ -1,0 +1,3 @@
+# Keep the export directory in the workspace, but do not commit its contents.
+gpt-export/*
+!gpt-export/.gitkeep
